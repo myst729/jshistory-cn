@@ -404,7 +404,7 @@ delete Object.prototype.Array; // 移除可选的 Array 绑定
 * `JSON.parse` 和 `JSON.stringify`，它们可以在对象与其 JSON 格式字符串之间做相互转换。
 * 9 个新的 `Array.prototype` 方法：`indexOf`、`lastIndexOf`、`every`、`some`、`forEach`、`map`、`filter`、`reduce` 和 `reduceRight`。
 * 1 个新的 `String.prototype` 方法：`trim`。
-* `Date`：`Date.prototype.now` 方法与新扩展，用于解析和产生 ISO 8601 日期格式下的数据字符串。
+* `Date`：`Date.now` 方法与新扩展，用于解析和产生 ISO 8601 日期格式下的数据字符串。
 * 新的 `Function.prototype` 方法 `bind`，以及函数实例上的 `name` 属性。
 
 其他各类更改和增强包括：
